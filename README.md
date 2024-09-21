@@ -11,6 +11,7 @@
   - [Pig Game](https://github.com/jadamoody1/PigGame)
 - <b>Java</b>
   - [Elordle](https://github.com/jadamoody1/Elordle)
+  - [Ranked Choice Voting](https://github.com/jadamoody1/RankedChoiceVoting)
 
 
 
