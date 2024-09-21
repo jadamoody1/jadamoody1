@@ -1,4 +1,6 @@
-<h1>Hi, I'm Jada!
+<h1>Hi, I'm Jada!</h1>
+
+<p>I’m a passionate programmer with a love for creating engaging projects across various programming languages. I enjoy tackling challenges and learning new technologies, and I’m always excited to explore innovative solutions.</b>
 
 <h2>👩🏽‍💻 Programming Projects:</h2>
 
