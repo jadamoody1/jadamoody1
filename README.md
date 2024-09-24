@@ -6,6 +6,7 @@
 
 - <b>C++</b>
   - [Pirate Translator](https://github.com/jadamoody1/PirateTranslator)
+  - [Cheating Hangman](https://github.com/jadamoody1/CheatingHangman)
 - <b>Full Stack Web App (NodeJS, HTML, CSS, JavaScript)</b>
   - [Salon J](https://github.com/jadamoody1/SalonJWebsite) 
 - <b>Python</b>
