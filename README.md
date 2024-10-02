@@ -25,6 +25,7 @@
   - [Machine Learning](https://github.com/jadamoody1/MachineLearning)
 - <b>Excel</b>
   - [Tarmac Waiting Times Analysis](https://github.com/jadamoody1/TarmacWaitTimes)
+  - [Tuition and Diversity Analysis: Elon University](https://github.com/jadamoody1/TuitionAndDiversityAnalysis)
 
 
 
