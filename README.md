@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jada!</h1>
 
-<p>I’m a passionate programmer with a love for creating engaging projects across various programming languages. I enjoy tackling challenges and learning new technologies, and I’m always excited to explore innovative solutions.</b>
+<p>I’m a passionate programmer with a love for creating engaging projects across various programming languages and performing data analysis. I enjoy tackling challenges, learning new technologies, and applying data-driven solutions.</b>
 
 <h2>👩🏽‍💻 Programming Projects:</h2>
 
@@ -15,6 +15,13 @@
 - <b>Java</b>
   - [Elordle](https://github.com/jadamoody1/Elordle)
   - [Ranked Choice Voting](https://github.com/jadamoody1/RankedChoiceVoting)
+
+
+<h2>👩🏽‍🏫 Data Science Projects:</h2>
+- <b>NumPy and Pandas</b>
+  - Data Cleaning and Visualization with Python(Pandas, NumPy)
+  - Maching Learning
+
 
 
 
