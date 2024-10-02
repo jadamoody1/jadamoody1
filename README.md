@@ -21,7 +21,7 @@
 <h2>👩🏽‍🏫 Data Science Projects:</h2>
 
 - <b>NumPy and Pandas</b>
-  - [Data Cleaning and Visualization](https://github.com/jadamoody1/DataCleaningandVisulization)
+  - [Data Cleaning and Visualization](https://github.com/jadamoody1/DataCleaningandVisualization)
   - [Machine Learning](https://github.com/jadamoody1/CheatingHangman)
 
 
