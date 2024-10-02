@@ -19,7 +19,7 @@
 
 <h2>👩🏽‍🏫 Data Science Projects:</h2>
 - <b>NumPy and Pandas</b>
-  - Data Cleaning and Visualization with Python(Pandas, NumPy)
+  - Data Cleaning and Visualization
   - Maching Learning
 
 
