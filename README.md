@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jada!</h1>
 
-<p>I’m a passionate programmer with a love for creating engaging projects across various programming languages and performing data analysis. I enjoy tackling challenges, learning new technologies, and applying data-driven solutions.</b>
+<p>I’m a passionate programmer with a love for creating engaging projects across various programming languages and performing data analysis. I enjoy tackling challenges, learning new technologies, and applying data-driven solutions.</p>
 
 <h2>👩🏽‍💻 Programming Projects:</h2>
 
@@ -17,11 +17,12 @@
   - [Ranked Choice Voting](https://github.com/jadamoody1/RankedChoiceVoting)
 
 
-<h2>👩🏽‍🏫 Data Science Projects:</h2>
-- <b>NumPy and Pandas</b>
-  - Data Cleaning and Visualization
-  - Maching Learning
 
+<h2>👩🏽‍🏫 Data Science Projects:</h2>
+
+- <b>NumPy and Pandas</b>
+  - [Data Cleaning and Visualization](https://github.com/jadamoody1/DataCleaningandVisulization)
+  - [Machine Learning](https://github.com/jadamoody1/CheatingHangman)
 
 
 
